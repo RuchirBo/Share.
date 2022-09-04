@@ -1,2 +1,2 @@
 # ShareBackend
-Backend API for Share
+Share.
